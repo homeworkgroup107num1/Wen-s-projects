@@ -1,0 +1,2 @@
+Project19.readme
+运行Project19文件夹中的forge a signature to pretend that you are Satoshi.py即可.

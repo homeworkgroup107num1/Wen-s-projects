@@ -1,0 +1,2 @@
+project 12.readme
+运行Project12文件夹中的Project12.verify the above pitfalls with proof-of-concept coded.py即可。据提示输入对应的数字即可运行或退出。

@@ -1,0 +1,2 @@
+Project16.readme
+先运行Project16文件夹中的SM2_decryption_server.py，再运行SM2_decryption_client.py即可。

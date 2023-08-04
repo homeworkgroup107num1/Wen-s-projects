@@ -1,0 +1,2 @@
+Project15.readme
+先运行Project15文件夹中的SM2_signature_server.py，再运行SM2_signature_client.py即可。
