@@ -1,0 +1,3 @@
+/project 2/ readme
+运行Project2 implement the Rho method of reduced SM3.py即可.
+修改collision值即可找到不同比特的碰撞.
