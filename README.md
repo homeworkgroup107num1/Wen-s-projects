@@ -6,6 +6,7 @@
 各个project的文件夹、汇总报告以及人员分工表都是以upload files的方式在作业截止时间前统一上传的。
 
 以下为各个Project的完成情况：
+
 *Project1: implement the naïve birthday attack of reduced SM3 √
 
 *Project2: implement the Rho method of reduced SM3  √
